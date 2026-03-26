@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+#places {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+    box-shadow: 0 0 10px gray;
+}
